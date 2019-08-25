@@ -1,0 +1,1 @@
+Appointment edit = Your appointment has been booked successfully. Your Appointment Number is: 100009432656716 
